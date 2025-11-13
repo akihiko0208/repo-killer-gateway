@@ -8,11 +8,11 @@
   <default sync-j="8"/>
 
   <!-- Repositories -->
-  <!--scarthgap (yocto-5.0.8) Commits on Mar 11, 2025-->
+  <!--scarthgap (yocto-5.0.12) Commits on Aug 22, 2025-->
   <project name="poky"
            path="poky"
            remote="yocto"
-           revision="dc4827b3660bc1a03a2bc3b0672615b50e9137ff"/>
+           revision="ec220ae083dba35c279192b2249ad03fe238446e"/>
   <!--scarthgap Commits on Mar 22, 2025-->
   <project name="meta-raspberrypi"
            path="meta-raspberrypi"
