@@ -31,5 +31,5 @@
   <project name="akihiko0208/meta-killer-gateway"
            path="meta-killer-gateway"
            remote="gh"
-           revision="e53b70edef57d58903d2a77a1ed3fbb83f6ecb37"/>
+           revision="53bf855eb7bf206123ec26df8cebc6d6d88d3918"/>
 </manifest>
