@@ -8,28 +8,23 @@
   <default sync-j="8"/>
 
   <!-- Repositories -->
-  <!--scarthgap (yocto-5.0.8) Commits on Mar 11, 2025-->
+  <!--styhead Commits on May 25, 2025-->
   <project name="poky"
            path="poky"
            remote="yocto"
-           revision="dc4827b3660bc1a03a2bc3b0672615b50e9137ff"/>
-  <!--scarthgap Commits on Mar 22, 2025-->
+           revision="f57dc43765e76325b35e2b05390e41ea73ad810c"/>
+  <!--styhead Commits on Mar 12, 2025-->
   <project name="meta-raspberrypi"
            path="meta-raspberrypi"
            remote="yocto"
-           revision="c153c694bd7a08de474470d7c1c7fd550117b162"/>
-  <!--scarthgap Commits on Mar 28, 2025-->
+           revision="cd558f77b6b1a6d0fa15cd9558df0c0262d42c91"/>
+  <!--styhead Commits on Feb 25, 2025-->
   <project name="openembedded/meta-openembedded"
            path="meta-openembedded"
            remote="gh"
-           revision="fdd18949760a1a178903eabdcdd18f6838fd0bbb"/>
-  <!--scarthgap Commits on Apr 20, 2025-->
-  <project name="meta-erlang/meta-erlang"
-           path="meta-erlang"
-           remote="gh"
-           revision="71e955c917cb9534b0d01a48fd9bf2d33867fdc3"/>
+           revision="c93994f1bb601c57548b588d4f77a044d90822cf"/>
   <project name="akihiko0208/meta-killer-gateway"
            path="meta-killer-gateway"
            remote="gh"
-           revision="53bf855eb7bf206123ec26df8cebc6d6d88d3918"/>
+           revision="9ab44748363278f229d2c0360a968471e58f14ce"/>
 </manifest>
